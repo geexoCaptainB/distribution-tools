@@ -1,0 +1,21 @@
+1. Cmdline: spl-token transfer GtBwdtJvjyh3f7auZpABP7gswsiimw8D7geWZc8rzH9Q 1 H1pC3fNi8S4iZJozfAU9eKdMnxn7RFreCHGv11y7SK15 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 3o5BCkwQ2d5MCkhbukDF8htLQr7tMhdgJ3i14kfp9GxB
+  Recipient: H1pC3fNi8S4iZJozfAU9eKdMnxn7RFreCHGv11y7SK15
+  Recipient associated token account: 33iMKuqwVSgGKwdqQykwhSVGZFLUyHSeou6x3tPYEhFS
+  Funding recipient: 33iMKuqwVSgGKwdqQykwhSVGZFLUyHSeou6x3tPYEhFS (0.00203928 SOL)
+
+Signature: 4q5MpWuZ5CZoH4Yrh7uvq7ch4zicGaxB3dyxLUPhhY724PG3spdDkbFcL19yFB4mrPMJNb7nt22esAjaGJnjP57g
+
+
+------------------------------
+2. Cmdline: spl-token transfer GtBwdtJvjyh3f7auZpABP7gswsiimw8D7geWZc8rzH9Q 1 H1pC3fNi8S4iZJozfAU9eKdMnxn7RFreCHGv11y7SK15 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 3o5BCkwQ2d5MCkhbukDF8htLQr7tMhdgJ3i14kfp9GxB
+  Recipient: H1pC3fNi8S4iZJozfAU9eKdMnxn7RFreCHGv11y7SK15
+  Recipient associated token account: 33iMKuqwVSgGKwdqQykwhSVGZFLUyHSeou6x3tPYEhFS
+
+Signature: 3BD61SqyyX2aywejrBg3UJ2rVrLnjMA2sfVBYs3KeA9KzQazyeC7UJyCEcaJ87Q7snG3DHM5CA4PR8Y7FeRV9XCF
+
+
+------------------------------

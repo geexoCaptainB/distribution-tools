@@ -1,0 +1,11 @@
+1. Cmdline: spl-token transfer GtBwdtJvjyh3f7auZpABP7gswsiimw8D7geWZc8rzH9Q 2 GUK8Cb5d7jupiBjUReLxZZsPp8h415oaTUX26M4tzEAm --fund-recipient --allow-unfunded-recipient
+Transfer 2 tokens
+  Sender: 3o5BCkwQ2d5MCkhbukDF8htLQr7tMhdgJ3i14kfp9GxB
+  Recipient: GUK8Cb5d7jupiBjUReLxZZsPp8h415oaTUX26M4tzEAm
+  Recipient associated token account: HRXzyFYuVN8172Gtb9rLJiRGNekPEg4B5mrCyfqMygRJ
+  Funding recipient: HRXzyFYuVN8172Gtb9rLJiRGNekPEg4B5mrCyfqMygRJ (0.00203928 SOL)
+
+Signature: 59MuhgyKTwwrhMLFSTotrphWMssHcfG8M5guPj8rVGGZXtD3bmMKGsAfoza6LDPkFrqTheUjezViuszAdg5UqCPD
+
+
+------------------------------
